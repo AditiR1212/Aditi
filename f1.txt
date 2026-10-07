@@ -1,2 +1,0 @@
-this is inside f1.txt
-
